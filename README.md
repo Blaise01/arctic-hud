@@ -9,7 +9,6 @@
 - Shows health, armor, hunger, thirst, current time, oxygen (when under water) and faction money (when faction boss)
 - Clean, minimalist design
 - Ability to hide the hud with pressing F10
-- HUD displays the faction money if you are a Leader of the Faction
 - Optimized performance (0.03 - 0.07ms)
 
 ## Install
